@@ -1,0 +1,6 @@
+[RandomX]
+wallet = cod:Carteira
+coin = Cod_Moeda
+rigname = Mineiro
+rigpassword = x
+pool = rx.unmineable.com:3333
